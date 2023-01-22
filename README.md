@@ -1,25 +1,20 @@
-# Hello there! Welcome to my Github page
+# Hello there! Welcome to my Github page 🖖
 
-My name is Luca Lombardo and I am currently attending my last year of the bachelor degree in (computational) mathematics.
+My name is Luca Lombardo and I'm currently attending the last year of the Bachelor Degree in Computational Mathematics at the University of Pisa. I'm also a content editor at ![MoreThanTech](https://morethantech.it/pubblicazioni?author=11_Luca%20Lombardo-). My mathematical and CS interests are:
 
-This is the biggest project I worked on
+* Graph Theory
+* Algorithms and Data Structures
+* Mathematical Analysis
+* Numerical Analysis
 
-<a href="https://github.com/lukefleed/imdb-graph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukefleed&repo=imdb-graph&theme=dracula" />
-</a>
+I mostly write in C++ and Python and love to write LaTeX documents.
 
+<p align="center">
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukefleed&hide=javascript,html,shell,SCSS,CSS,M,tex,jupyter%20notebook&theme=dracula)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukefleed&layout=compact&theme=dracula)](https://github.com/lukefleed/lukefleed) -->
+</p>
 
-<!-- <a href="https://github.com/lukefleed/lab-didattico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukefleed&repo=lab-didattico&theme=dracula" />
-</a>
+Hours of coding since the beginning of 2023:
 
-<!-- <a href="https://github.com/lukefleed/raspberry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukefleed&repo=raspberry&theme=dracula" />
-</a> -->
-
-<!-- <a href="https://github.com/lukefleed/Dispensa-sul-calcolo-integrale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukefleed&repo=Dispensa-sul-calcolo-integrale&theme=dracula" />
-</a> -->
+[![wakatime](https://wakatime.com/badge/user/a3116382-7adb-43ba-9490-83130c4b22c5.svg)](https://wakatime.com/@a3116382-7adb-43ba-9490-83130c4b22c5)
