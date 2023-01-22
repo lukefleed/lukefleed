@@ -1,6 +1,6 @@
 # Hello there! Welcome to my Github page 🖖
 
-My name is Luca Lombardo and I'm currently attending the last year of the Bachelor Degree in Computational Mathematics at the University of Pisa. I'm also a content editor at ![MoreThanTech](https://morethantech.it/pubblicazioni?author=11_Luca%20Lombardo-). My mathematical and CS interests are:
+I'm currently attending the last year of the Bachelor Degree in Computational Mathematics at the University of Pisa. I'm also a content editor at MoreThanTech! My mathematical and CS interests are:
 
 * Graph Theory
 * Algorithms and Data Structures
