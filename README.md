@@ -11,7 +11,7 @@ I mostly write in C++ and Python and love to write LaTeX documents.
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukefleed&hide=javascript,html,shell,SCSS,CSS,M,tex,jupyter%20notebook&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukefleed&hide=javascript,html,shell,SCSS,CSS,astro,TypeScript,M,tex,jupyter%20notebook&theme=dracula)
 
 </p>
 
