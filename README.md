@@ -4,7 +4,6 @@ I'm currently attending the last year of the Bachelor Degree in Computational Ma
 
 * Graph Theory
 * Algorithms and Data Structures
-* Mathematical Analysis
 * Numerical Analysis
 
 I mostly write in C++ and Python and love to write LaTeX documents.
