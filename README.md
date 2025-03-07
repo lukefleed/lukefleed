@@ -8,5 +8,5 @@ Here are some of my **research interests**:
 
 * 📘 Algorithms and data structures</li>
 * 📕 Succinct data structures and data compression</li>
-* 📗 Graph theory and high-performance computing</li>
+* 📗 Graph algorithms and high-performance computing</li>
 * 📙 Rust and low-level code optimization</li>
